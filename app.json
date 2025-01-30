@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ignt_ads",
-    "slug": "ignt_ads",
+    "slug": "ignt-ads",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ff9a6a92-50a5-4542-955c-3ca61f883af0"
+      }
+    },
+    "owner": "charlesncn"
   }
 }
